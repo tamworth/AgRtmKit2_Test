@@ -1,7 +1,7 @@
 # AgRtmKit2_Test
 Pod::Spec.new do |spec| 
    spec.name          = "AgRtmKit2_Test"
-   spec.version       = "0.1.0"
+   spec.version       = "0.1.1"
    spec.summary       = "Agora iOS SDK" 
    spec.description   = "iOS library for agora A/V communication, broadcasting and data channel service." 
    spec.homepage      = "https://docs.agora.io/en/Agora%20Platform/downloads" 
